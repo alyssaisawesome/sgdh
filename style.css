@@ -1,0 +1,29 @@
+body {
+  background-size: cover;
+}
+
+.heading {
+  border-radius: 0px;
+  width: 100%;
+  font-size:40px;
+  margin:0px;
+  font-weight: bold;
+  padding:20px;
+}
+
+.note {
+  font-size:20px;
+  font-style: italic;
+  color:rgba(255, 249, 233, 0.694)
+}
+
+#song {
+  font-size:20px;
+}
+
+canvas {
+  background-color:rgba(255, 166, 0, 0.646);
+  border: 5px solid orange;
+  border-radius: 20px;
+  margin-top: 110px;
+}
